@@ -1,1 +1,3 @@
-Factorial!
+UnFactorial?
+
+3! * 4! = ?
